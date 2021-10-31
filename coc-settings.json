@@ -1,0 +1,18 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "javascript",
+        "html",
+        "json",
+        "python",
+        "c",
+        "cpp",
+        "tex"
+    ],
+    "coc.preferences.colorSupport": true,
+    "highlight.colors.enable": true,
+    "clangd.semanticHighlighting": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
