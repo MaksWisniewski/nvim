@@ -7,6 +7,11 @@ Vim/neovim configuration and configuration file for tmux
 
 - :PlugInstall
 
-- :CocInstall coc-json coc-tsserver coc-marketplace
+- 
+```bash
+    sudo apt install clangd clang
+```    
+
+- :CocInstall coc-json coc-tsserver coc-marketplace coc-pyright coc-clangd
 
 - copy settings.json to :CocSettings
